@@ -1,0 +1,4 @@
+{
+    "vehiclesUrl":  "http://localhost:8080/vehicleHire/vehicle",
+    "hireUrl": "http://localhost:8080/vehicleHire/vehicle/hireRate"
+}

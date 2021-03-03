@@ -1,0 +1,26 @@
+.vehicleDetails {
+    display: grid;
+    grid-template-columns: 200px auto;
+}
+
+.hireDateStarts {
+    display: grid;
+    grid-template-columns: 200px auto;
+}
+
+.hireDateEnds {
+    display: grid;
+    grid-template-columns: 200px auto;
+}
+
+.hirePrice--label {
+    display: inline;
+}
+
+.hirePrice--value {
+    display: inline;
+}
+
+.capitalise {
+    text-transform:capitalize;
+}
