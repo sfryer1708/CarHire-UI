@@ -19,3 +19,4 @@ To run the application:
 3. Use React functional components, with hooks instead of components.
 4. Add some error handling to the application.
 5. Made the select component which filters the vehicle list remember its last selection.
+6. Created a node proxy so any UI code that the client shouldn't see (like security tokens or signature generation) can be place in there.
